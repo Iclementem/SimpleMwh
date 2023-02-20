@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E4A38F5729A39203009613B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		E4D5CC7D298BD626000B2123 /* SimpleMwh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleMwh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4D5CC80298BD626000B2123 /* SimpleMwhApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleMwhApp.swift; sourceTree = "<group>"; };
 		E4D5CC82298BD626000B2123 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +95,7 @@
 		E4D5CC7F298BD626000B2123 /* SimpleMwh */ = {
 			isa = PBXGroup;
 			children = (
+				E4A38F5729A39203009613B9 /* Info.plist */,
 				E4D5CC80298BD626000B2123 /* SimpleMwhApp.swift */,
 				E4D5CC82298BD626000B2123 /* ContentView.swift */,
 				E4D5CC84298BD628000B2123 /* Assets.xcassets */,
@@ -420,6 +422,7 @@
 				DEVELOPMENT_TEAM = 5X9C73TLF2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SimpleMwh/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +452,7 @@
 				DEVELOPMENT_TEAM = 5X9C73TLF2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SimpleMwh/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
